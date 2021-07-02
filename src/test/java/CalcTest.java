@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 @Epic("Test cases")
 public class CalcTest {
-
+    // test 2
     private Calc calc = new Calc();
 
     @Test(description = "Test 1 - success")
